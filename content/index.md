@@ -24,7 +24,7 @@ Lectures: Mon and Wed 1:30‐2:45 pm in Harvard Northwest Building, NW B-103
 Labs: Thur 4:30-5:45 pm in Pierce 301
 
 Head TFs: Chris Gumb - DCE Head TF: Sol Girouard
-Office Hours:IACS student lobby in Maxwell-Dworkin's ground. Just follow the signs.
+Office Hours: IACS student lobby in Maxwell-Dworkin's ground. Just follow the signs.
 Online Office Hours zoom link: [https://harvard-dce.zoom.us/j/7607382317](https://harvard-dce.zoom.us/j/7607382317)
 
 Course material can be viewed in the public [GitHub repository](https://github.com/Harvard-IACS/2019-CS109A/tree/master/content)
