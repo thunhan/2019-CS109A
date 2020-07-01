@@ -8,6 +8,6 @@ Tags: Introduction, data science process, logistics
 
 ## Lecture
 
-- [Lecture 1: Introduction [pptx]](/presentation/Lecture1_Introduction.pptx )
-- [Lecture 1: Introduction [pdf]]({attach}presentation/Lecture1_Introduction.pdf )
-- [Lecture 1: Data Science Demo [Notebook]]({filename}notes/Lecture1_Notebook.ipynb)
+- [Lecture 1: Introduction [pptx]](https://github.com/thunhan/2019-CS109A/blob/master/content/lectures/lecture1/presentation/Lecture1_Introduction.pptx)
+- [Lecture 1: Introduction [pdf]](https://github.com/thunhan/2019-CS109A/blob/master/content/lectures/lecture1/presentation/Lecture1_Introduction_latest.pdf)
+- [Lecture 1: Data Science Demo [Notebook]](https://github.com/thunhan/2019-CS109A/blob/master/content/lectures/lecture1/notes/Lecture1_Notebook.ipynb)
