@@ -4,7 +4,7 @@ Date: 2019-07-17
 save_as: index.html
 Fall 2019
 [Pavlos Protopapas](https://iacs.seas.harvard.edu/people/pavlos-protopapas), [Kevin A. Rader](https://statistics.fas.harvard.edu/people/kevin-rader), and [Chris Tanner](https://iacs.seas.harvard.edu/people/chris-tanner)
-Lab Leaders:</> Chris Tanner and Eleni Kaxiras
+Lab Leaders: Chris Tanner and Eleni Kaxiras
 
 Welcome to CS109a/STAT121a/AC209a, also offered by the DCE as CSCI E-109a, Introduction to Data Science. This course is the first half of a one‐year course to data science. We will focus on the analysis of data to perform predictions using statistical and machine learning methods. Topics include data scraping, data management, data visualization, regression and classification methods, and deep neural networks. You will get ample practice through weekly homework assignments. The class material integrates the five key facets of an investigation using data:
 
@@ -30,15 +30,16 @@ Online Office Hours zoom link: [https://harvard-dce.zoom.us/j/7607382317](https:
 Course material can be viewed in the public [GitHub repository](https://github.com/Harvard-IACS/2019-CS109A/tree/master/content)
 
 STANDARD SECTIONS
-Friday 10/25</> 10:30-11:45 am 1 Story St. Room 306
-Monday 10/28</> 4:30-5:45 pm Science Center 110
+
+- Friday 10/25 10:30-11:45 am 1 Story St. Room 306
+- Monday 10/28 4:30-5:45 pm Science Center 110
+
 Cover the material presented in class. Both standard sections are identical.
 
 ADVANCED SECTIONS
 Wednesday 11/13 4:30-5:45 pm Maxwell Dworkin G115
 Cover a different topic each week and are required for 209a students.
-
-Instructor Office Hours>Pavlos & Kevin</>: Monday 3-5 pm, IACS Lobby
+Instructor Office Hours Pavlos & Kevin: Monday 3-5 pm, IACS Lobby
 Chris: Wednesday 3-4 pm, Maxwell-Dworkin B125
 
 TF Office Hours (On-Campus)
@@ -59,8 +60,9 @@ Online office hours are held via zoom:
 Please be aware, that we will not publicly release the homework assignments this year. If you want to follow the course online without registering, you can use the assignments from 2013 and 2014, available at the links below. Additionally, the material from 2015 is also available.
 
 Previous Material
-[2018](http://harvard-iacs.github.io/2018-CS109A)
-[2017](http://harvard-iacs.github.io/2017-CS109A)
-[2015](http://cs109.github.io/2015)
-[2014](http://cs109.github.io/2014/index.html)
-[2013](https://github.com/cs109/content)
+
+- [2018](http://harvard-iacs.github.io/2018-CS109A)
+- [2017](http://harvard-iacs.github.io/2017-CS109A)
+- [2015](http://cs109.github.io/2015)
+- [2014](http://cs109.github.io/2014/index.html)
+- [2013](https://github.com/cs109/content)
